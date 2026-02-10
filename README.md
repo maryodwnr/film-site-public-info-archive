@@ -1,2 +1,15 @@
 # film-site-public-info-archive
 本仓库作为影视网站公开信息归档的综合资料项目，主要整理互联网上公开可访问的影视类站点基础信息。仓库内容注重信息记录与长期维护属性，关注站点内容结构与页面展示方式。所有资料均来源于公开网络环境，仅用于信息整理与研究用途，不涉及任何影视资源传播行为。
+
+高清影视网｜网站基础信息说明
+
+站点：高清影视网
+地址：https://www.qf3186.com/
+
+属性：影视站点
+运行状态：正常
+
+说明：
+本说明仅用于介绍影视网站的基础信息，不涉及任何使用引导或评价行为。
+
+Site notes: https://maryodwnr.github.io/Site notes: https://maryodwnr.github.io/film-site-public-info-archive//
