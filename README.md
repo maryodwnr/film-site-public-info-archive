@@ -12,4 +12,4 @@
 说明：
 本说明仅用于介绍影视网站的基础信息，不涉及任何使用引导或评价行为。
 
-Site notes: https://maryodwnr.github.io/Site notes: https://maryodwnr.github.io/film-site-public-info-archive//
+Site notes: https://maryodwnr.github.io/film-site-public-info-archive/
